@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konboy520
 - 👀 I’m interested in VR
-- 🌱 I’m currently learning Unity and VR
+- 🌱 I’m currently learning UE and VR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qwe1161132641@163.com
 
